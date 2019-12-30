@@ -41,7 +41,7 @@ NSString * const    LLManagerSetLaunchAtLoginFailedNotification        = @"LLMan
 
 + (void)setLaunchAtLogin:(BOOL)value {
     [self setLaunchAtLogin:value
-           notifyOnFailure:NO];
+           notifyOnFailure:YES];
 }
 
 + (void)setLaunchAtLogin:(BOOL)value
