@@ -217,6 +217,7 @@
 				CODE_SIGN_ENTITLEMENTS = LaunchAtLoginHelper/LaunchAtLoginHelper.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				DEVELOPMENT_TEAM = SZZFX78PB5;
+				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "LaunchAtLoginHelper/LaunchAtLoginHelper-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.6.8;
 				PRODUCT_BUNDLE_IDENTIFIER = com.digitician.peakhour4.launchAtLoginHelper;
@@ -232,6 +233,7 @@
 				CODE_SIGN_ENTITLEMENTS = LaunchAtLoginHelper/LaunchAtLoginHelper.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				DEVELOPMENT_TEAM = SZZFX78PB5;
+				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "LaunchAtLoginHelper/LaunchAtLoginHelper-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.6.8;
 				PRODUCT_BUNDLE_IDENTIFIER = com.digitician.peakhour4.launchAtLoginHelper;
